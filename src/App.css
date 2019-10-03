@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h2 {
+  padding-left: 5%;
+}
+
+.app {
+  background-color: #282c34;
+  color: white;
+}
+
+.desc {
+  font-size: 20px;
+  padding: 5%;
+}
+
+.img {
+  width: 50%;
+}
+
+.title {
+  margin: 0;
+  padding: 5%;
+  text-align:center;
+}
+
+.subTitle {
+  color: cornflowerblue;
+}
+
+.names {
+  color: cornflowerblue;
+}
+
+.text {
+  color: #fff;
+  padding: 5%;
+}
